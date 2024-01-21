@@ -39,20 +39,20 @@ export default function Greeting() {
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
-                <Button
+                {/* <Button
                   text="Contact me"
                   href="mailto:farhaannishtar@gmail.com"
-                />
+                /> */}
               </div>
             </div>
           </div>
-          <div className="greeting-image-div">
+          <div className="greeting-image-div ">
             {/* {illustration.animated ? (
               <DisplayLottie animationData={landingPerson} />
             ) : ( */}
             <img
               alt="farhaan's display"
-              src={require("../../assets/images/farhaan-picture.png")}
+              src={require("../../assets/images/dp.jpeg")}
             ></img>
             {/* )} */}
           </div>

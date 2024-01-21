@@ -17,7 +17,7 @@ export default function StartupProject() {
         desc: "A full-stack web application providing comprehensive, real-time health and wellness metrics by integrating devices like Oura ring, blood glucose monitors, and Fitbit scales. Designed for health enthusiasts and professionals, it offers a seamless experience in centralizing and monitoring health data.",
         footerLink: [
           {
-            name: "Visit Website",
+            name: "Visit Demo",
             url: "https://life-dashboard-indol.vercel.app/"
           }
           //  you can add extra buttons here.
@@ -33,7 +33,7 @@ export default function StartupProject() {
         <Fade bottom duration={1000} distance="20px">
           <div className="experience-container" id="workExperience">
             <div>
-              <h1 className="experience-heading">Projects</h1>
+              <h1 className="experience-heading">Personal projects</h1>
               <div className="container">
                 <div className="experience-cards-div">
                   {workExperiences.experience.map((card, i) => {
