@@ -186,7 +186,7 @@ const workExperiences = {
   experience: [
     {
       role: "Full Stack Web Developer",
-      company: "Deelz",
+      company: "Deelz.ai",
       companylogo: require("./assets/images/deelz-logo.jpeg"),
       date: "December 2023 – Present",
       desc: "Building the Deelz web platform to find the most competitive deals on used cars by automating searches on used car markets",
