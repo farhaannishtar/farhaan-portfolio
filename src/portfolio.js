@@ -38,7 +38,7 @@ const socialMediaLinks = {
   // gmail: "farhaannishtar@gmail.com",
   linkedin: "https://www.linkedin.com/in/farhaan-nishtar/",
   resume:
-    "https://docs.google.com/document/d/e/2PACX-1vQkqwoqSc0VURTEdJhP2JQgodZN43r5vPw46IeebUoBVhYyrOsvpknPoUdWP3x4GkTUs9qG4506v784/pub",
+    "https://docs.google.com/document/d/e/2PACX-1vQK3S4Beh7zmDCTLNCDPzkXAR5Wn9_mXK6bmzSS0ay1j34eGDkasE9Jzz4f2wEfYOf9UMGsdScab-2h/pub",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
