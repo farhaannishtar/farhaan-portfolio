@@ -18,7 +18,7 @@ export default function StartupProject() {
         footerLink: [
           {
             name: "Visit Demo",
-            url: "https://life-dashboard-indol.vercel.app/"
+            url: "https://mylifedashboard.vercel.app/"
           }
           //  you can add extra buttons here.
         ]
@@ -35,7 +35,7 @@ export default function StartupProject() {
             <div>
               <h1 className="experience-heading">Personal projects</h1>
               <div className="container">
-                <div className="experience-cards-div">
+                <div className="project-experience-cards-div">
                   {workExperiences.experience.map((card, i) => {
                     return (
                       <ExperienceCard
